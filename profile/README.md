@@ -1,7 +1,8 @@
 ## Medical Aesthetics Market Size
 The global medical aesthetics market is experiencing significant growth, valued at USD 15.59 billion in 2023. It’s projected to reach USD 17.16 billion in 2024 and soar to USD 35.32 billion by 2030, driven by a robust compound annual growth rate (CAGR) of 12.8%. This expansion reflects the rising popularity of both minimally invasive and non-surgical procedures, fueled by advancements in technology and increasing consumer demand for aesthetic enhancements.
 
-[🔗 Download PDF Brochure on Medical Aesthetics Market](https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=885&utm_source=github.com&utm_medium=free&utm_campaign=kk20)
+<a href="https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=885&utm_source=github.com&utm_medium=free&utm_campaign=kk20" style="display:inline-block; padding:10px 15px; background-color:#007bff; color:#ffffff; text-decoration:none; font-size:16px; border-radius:5px;">🔗 Download PDF Brochure</a>
+
 ## Medical Aesthetics Market Driver
 A key force propelling this market forward is the rising demand for minimally and non-invasive aesthetic procedures. Treatments like Botox, dermal fillers, laser therapies, and chemical peels offer effective solutions with minimal risk and downtime compared to traditional surgery. According to a 2023 ISAPS report, technological breakthroughs and a growing focus on natural-looking results are boosting their appeal. These procedures attract a wide range of people—from busy professionals seeking quick fixes to older individuals opting for safer anti-aging options—thanks to their accessibility, affordability, and customizable outcomes.
 
